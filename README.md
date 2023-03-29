@@ -1,1 +1,1 @@
-# ITNPAI1Multiclass
+# ITNPAI1Multiclass classification
